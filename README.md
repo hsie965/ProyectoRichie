@@ -1,4 +1,5 @@
-"# ProyectoRichie" 
 # ProyectoRichie
 
-Este es la primmera prueba  usando Git y GitHub.
+## Primera prueba
+
+Esta es la primera prueba usando Git y GitHub.
